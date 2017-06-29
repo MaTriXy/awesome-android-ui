@@ -1,6 +1,6 @@
 List of Android UI/UX Libraries
 ==================
-![Project status](http://stillmaintained.com/wasabeef/awesome-android-ui.png)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
 
 A curated list of awesome Android UI/UX libraries.
 
@@ -42,7 +42,7 @@ Name | License | Demo
 [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PagerSlidingTabStrip.gif" width="49%">
 [material-ripple](https://github.com/balysv/material-ripple) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-ripple.gif" width="49%">
 [RippleEffect](https://github.com/traex/RippleEffect) | [MIT](http://opensource.org/licenses/MIT) | ![](/art/RippleEffect.gif)
-[LDrawer](https://github.com/ikimuhendis/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LDrawer.gif" width="49%">
+[LDrawer](https://github.com/keklikhasan/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LDrawer.gif" width="49%">
 [material-design-icons](https://github.com/google/material-design-icons) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-design-icons.png)
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | UnKnown | <img src="/art/AndroidMaterialDesignToolbar.gif" width="49%">
 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/MaterialEditText.png)
@@ -54,6 +54,7 @@ Name | License | Demo
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/materialish-progress.gif" width="49%"> <img src="/art/materialish-progress2.gif" width="49%">
 [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/FloatingActionButton.gif" width="49%">
 [android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-floating-action-button.gif" width="49%"> <img src="/art/android-floating-action-button.png" width="49%">
+[MaterialSheetFab](https://github.com/gowong/material-sheet-fab) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/MaterialSheetFab.gif" width="49%">
 [snackbar](https://github.com/nispok/snackbar) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/snackbar.png" width="49%">
 [CircularReveal](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircularReveal.gif" width="49%">
 [material-range-bar](https://github.com/oli107/material-range-bar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-range-bar.png" width="49%"> <img src="/art/material-range-bar2.png" width="49%">
@@ -61,6 +62,13 @@ Name | License | Demo
 [Carbon](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-calendarview.gif" width="49%">
 [Material](https://github.com/rey5137/material) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Material.gif" width="49%"> <img src="/art/Material2.gif" width="49%"> <img src="/art/Material3.gif" width="49%"> <img src="/art/Material4.gif" width="49%"> <img src="/art/Material5.gif" width="49%"> <img src="/art/Material6.gif" width="49%"> <img src="/art/Material7.gif" width="49%"> <img src="/art/Material8.gif" width="49%"> <img src="/art/Material9.gif" width="49%"> <img src="/art/Material10.gif" width="49%"> <img src="/art/Material11.png" width="49%">
+[Material Icon Library](https://github.com/code-mc/material-icon-lib) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-icon-lib.gif" width="100%">
+[FAB-Loading](https://github.com/SaeedMasoumi/FAB-Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FAB-Loading.gif" width="100%">
+[MaterialTextField](https://github.com/florent37/MaterialTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTextField.gif" width="49%">
+[MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDateRangePicker.png" width="49%"> <img src="/art/MaterialDateRangePicker2.png" width="49%">
+[TapTargetView](https://github.com/KeepSafe/TapTargetView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TapTargetView.gif" width="49%">
+[MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTapTargetPrompt.jpg" width="49%">
+[MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/MaterialShadows.png" いwidth="100%"> <img src="/art/MaterialShadows.png" width="100%">
 
 Layout
 ======================
@@ -69,8 +77,7 @@ Name | License | Demo
 [WaveView](https://github.com/john990/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/waveview.gif" width="49%">
 [ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ResideLayout.gif" width="49%">
 [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidSwipeLayout.gif" width="49%"> <img src="/art/AndroidSwipeLayout2.gif" width="49%">
-[FreeFlow](https://github.com/Comcast/FreeFlow) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FreeFlow.png" width="100%">
-[SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeBackLayout.webp" width="49%"> <img src="/art/SwipeBackLayout2.webp" width="49%">
+[SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeBackLayout.webp" width="49%"> <img src="/art/SwipeBackLayout2.webp" width="49%">
 [Maskable Layout](https://github.com/christophesmet/android_maskable_layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android_maskable_layout.gif" width="49%">
 [ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ExpandableLayout.gif" width="49%">
 [android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-PullRefreshLayout.gif" width="49%">
@@ -91,6 +98,20 @@ Name | License | Demo
 [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/bubbles-for-android.gif" width="49%">
 [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSlidingUpPanel.jpg" width="100%">
 [android-transition](https://github.com/kaichunlin/android-transition) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-transition.gif" width="49%">
+[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CircleRefreshLayout.gif" width="49%">
+[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveSwipeRefreshLayout.gif" width="49%">
+[FloatingView](https://github.com/recruit-lifestyle/FloatingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FloatingView.gif" width="49%">
+[FrenchToast](https://github.com/pyricau/frenchtoast) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/frenchtoast.gif" width="49%">
+[AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSweetSheet.gif" width="100%">
+[FABRevealLayout](https://github.com/truizlop/FABRevealLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABRevealLayout.gif" width="49%">
+[ToggleExpandLayout](https://github.com/fenjuly/ToggleExpandLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ToggleExpandLayout.gif" width="49%">
+[FlowingDrawer](https://github.com/mxn21/FlowingDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlowingDrawer.gif" width="65%">
+[WaveView](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
+[FoldableLayout](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
+[TriangleLabelView](https://github.com/shts/TriangleLabelView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TriangleLabelView.jpg" width="49%">
+[FlexboxLayout](https://github.com/google/flexbox-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlexboxLayout.gif" width="49%"> <img src="/art/FlexboxLayout2.gif" width="49%">
+[Vorolay](https://github.com/Quatja/Vorolay) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Vorolay.png" width="49%"> <img src="/art/Vorolay2.png" width="49%">
+[Hover](https://github.com/google/hover) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/hover.gif" width="49%">
 
 Button
 ======================
@@ -129,8 +150,13 @@ Name | License | Demo
 [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidTreeView.webp" width="49%"> <img src="/art/AndroidTreeView2.webp" width="49%">
 [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerViewFastScroller.png" width="49%"> <img src="/art/RecyclerViewFastScroller2.png" width="49%">
 [RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
-[SwipeToAction](https://github.com/diftco/SwipeToAction) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeToAction.gif" width="49%">
-
+[SwipeToAction](https://github.com/vcalvello/SwipeToAction) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeToAction.gif" width="49%">
+[Advanced Recyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AdvancedRecyclerView.gif" width="49%">
+[RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recycler-itemdecoration1.gif" width="49%"> <img src="/art/recycler-itemdecoration2.gif" width="49%">
+[MaterialRecents](https://github.com/ZieIony/MaterialRecents) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialRecents.gif" width="49%">
+[Dividers](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
+[Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
+[sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
 
 ViewPager
 ======================
@@ -139,7 +165,7 @@ Name | License | Demo
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | UnKnown | <img src="/art/ParallaxPagerTransformer.gif" width="49%">
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewPagerTransforms.gif" width="49%">
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CircleIndicator.gif" width="49%">
-[Android ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ViewPagerIndicator.png" width="100%">
+[Android ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ViewPagerIndicator.png" width="100%">
 [Android-ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ParallaxHeaderViewPager.gif" width="100%">
 [freepager](https://github.com/alexzaitsev/freepager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/freepager.gif" width="49%">
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SpringIndicator.gif" width="49%">
@@ -147,6 +173,12 @@ Name | License | Demo
 [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlipViewPager-Draco.gif" width="100%">
 [MaterialViewPager](https://github.com/florent37/MaterialViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialViewPager.png" width="49%"> <img src="/art/MaterialViewPager2.gif" width="49%">
 [AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidRubberIndicator.gif" width="60%">
+[HollyViewPager](https://github.com/florent37/HollyViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/HollyViewPager.gif" width="49%">
+[SCViewPager](https://github.com/sacot41/SCViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SCViewPager.gif" width="49%">
+[SwipeSelector](https://github.com/roughike/SwipeSelector) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeSelector.gif" width="49%" />
+[NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](http://opensource.org/licenses/MIT) | <img src="/art/NavigationTabStrip.gif" width="49%" />
+[NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](http://opensource.org/licenses/MIT) | <img src="/art/NavigationTabBar.gif" width="49%" /> <img src="/art/NavigationTabBar2.gif" width="49%" />
+[UltraViewPager](https://github.com/alibaba/UltraViewPager) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/UltraViewPager.gif" width="49%"> <img src="/art/UltraViewPager2.gif" width="49%"> <img src="/art/UltraViewPager3.gif" width="49%"> <img src="/art/UltraViewPager4.gif" width="49%">
 
 Label / Form
 ======================
@@ -165,6 +197,12 @@ Name | License | Demo
 [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableTextView.gif" width="49%">
 [Float Labeled EditText](https://github.com/wrapp/floatlabelededittext) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/floatlabelededittext.gif" width="49%">
 [SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
+[ParkedTextView](https://github.com/gotokatsuya/ParkedTextView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">
+[Material Code input](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
+[TextSurface](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextSurface.gif" width="100%">
+[EmailAutoCompleteTextView](https://github.com/tasomaniac/EmailAutoCompleteTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EmailAutoCompleteTextView.gif" width="60%">
+[Tab Digit](https://github.com/xenione/tab-digit) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/tab-digit.gif" width="49%"> <img src="/art/tab-digit2.gif" width="49%">
+[RotatingText](https://github.com/sdsmdg/RotatingText) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/RotatingText.gif" width="100%">
 
 Image
 ======================
@@ -180,12 +218,19 @@ Name | License | Demo
 [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RoundedImageView.png" width="49%"> <img src="/art/RoundedImageView2.png" width="49%">
 [CropImageView](https://github.com/cesards/CropImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CropImageView.png" width="100%">
 [BitmapMerger](https://github.com/cooltechworks/BitmapMerger) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BitmapMerger.gif" width="49%"> <img src="/art/BitmapMerger2.gif" width="49%">
+[Scrolling Image View](https://github.com/Q42/AndroidScrollingImageView) | NONE | <img src="/art/AndroidScrollingImageView.gif" width="100%">
+[Pixelate Android](https://github.com/DanielMartinus/Pixelate) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-pixelate.gif" width="49%">
+[SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SimpleCropView.gif" width="49%">
+[android-anyshape](https://github.com/lankton/android-anyshape) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
+[PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
 
 SeekBar
 ======================
 Name | License | Demo
 --- | --- | ---
 [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/discreteseekbar.gif) ![](/art/discreteseekbar2.gif)
+[SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/seekbarcompat.gif)
+[PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/PreviewSeekBar.gif)
 
 Progress
 ======================
@@ -199,6 +244,17 @@ Name | License | Demo
 [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-RoundCornerProgressBar.png" width="100%"> <img src="/art/Android-RoundCornerProgressBar2.png" width="100%">
 [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ElasticDownload.gif" width="49%"> <img src="/art/ElasticDownload2.gif" width="49%">
 [FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABProgressCircle.gif" width="49%">
+[Loading](https://github.com/yankai-victor/Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Loading.gif" width="49%"> <img src="/art/Loading2.gif" width="49%"> <img src="/art/Loading3.gif" width="49%">
+[Animated Circle Loading View](https://github.com/jlmd/AnimatedCircleLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AnimatedCircleLoadingView.gif" width="49%">
+[AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidFillableLoaders.gif" width="49%"> <img src="/art/AndroidFillableLoaders2.gif" width="49%">
+[spots-dialog](https://github.com/d-max/spots-dialog) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/spots_dialog.gif" width="49%">
+[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AVLoadingIndicatorView.gif" width="49%">
+[LoadingDots](https://github.com/EyalBira/loading-dots) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/loading-dots.gif" width="49%">
+[ColorArcProgerssBar](https://github.com/Shinelw/ColorArcProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ColorArcProgressBar.gif" width="49%">
+[ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ArcProgressStackView.gif" width="49%"> <img src="/art/ArcProgressStackView2.gif" width="49%">
+[WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveLoadingView.jpg" width="49%">
+[CatLoadingView](https://github.com/Rogero0o/CatLoadingView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CatLoadingView.gif" width="49%">
+[WaveLoading](https://github.com/race604/WaveLoading) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/race604-WaveLoading.gif" width="60%">
 
 Menu
 ======================
@@ -210,6 +266,8 @@ Name | License | Demo
 [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Side-Menu.Android.gif" width="100%">
 [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Context-Menu.Android.gif" width="100%">
 [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GuillotineMenu-Android.gif" width="100%">
+[android-snake-menu](https://github.com/xmuSistone/android-snake-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-snake-menu.gif" width="49%">
+[BoomMenu](https://github.com/Nightonke/BoomMenu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BoomMenu.gif" width="49%"> <img src="/art/BoomMenu2.gif" width="49%">
 
 ActionBar
 ======================
@@ -225,6 +283,7 @@ Name | License | Demo
 --- | --- | ---
 [DialogPlus](https://github.com/orhanobut/dialogplus) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DialogPlus.png" width="30%"> <img src="/art/DialogPlus2.gif" width="49%">
 [Sweet Alert](https://github.com/pedant/sweet-alert-dialog) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/swalert_change_type.gif" width="49%">
+[FlycoDialog-Matser](https://github.com/H07000223/FlycoDialog_Master) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/FlycoDialog-Matser.gif" width="49%">
 
 Calendar
 ======================
@@ -233,7 +292,7 @@ Name | License | Demo
 [Caldroid](https://github.com/roomorama/Caldroid) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/Caldroid.png" width="49%">
 [android-times-square](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-times-square.png" width="49%">
 [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Android-MonthCalendarWidget.png)
-[android-betterpickers](https://github.com/derekbrameyer/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-betterpickers.png)
+[android-betterpickers](https://github.com/code-troopers/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-betterpickers.png)
 [Android-Week-View](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Android-Week-View.png)
 [SilkCal](https://github.com/NLMartian/SilkCal) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SilkCat.gif" width="49%">
 [SublimePicker](https://github.com/vikramkakkar/SublimePicker) |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/sublimePicker_date.png" width="49%">  <img src="/art/sublimePicker_time.png" width="49%"> <img src="/art/sublimePicker_repeat.png" width="49%">
@@ -245,6 +304,7 @@ Graph
 Name | License | Demo
 --- | --- | ---
 [EazeGraph](https://github.com/blackfizz/EazeGraph) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/EazeGraph.png" width="49%"> <img src="/art/EazeGraph2.png" width="49%"> <img src="/art/EazeGraph3.png" width="49%"> <img src="/art/EazeGraph4.png" width="49%">
+[GraphView](https://github.com/jjoe64/GraphView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/graphview-zooming.gif" width="65%"> <img src="/art/graphview-anim.gif" width="65%">
 [hellocharts-android](https://github.com/lecho/hellocharts-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/hellocharts-android.gif" width="49%"> <img src="/art/hellocharts-android2.png" width="49%"> <img src="/art/hellocharts-android3.png" width="49%">
 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/MPAndroidChart.png" width="49%"> <img src="/art/MPAndroidChart2.png" width="49%"> <img src="/art/MPAndroidChart3.png" width="49%"> <img src="/art/MPAndroidChart4.png" width="49%">
 [WilliamChart](https://github.com/diogobernardino/WilliamChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/williamchart_line.png" width="65%"> <img src="/art/williamchart_bar.png" width="65%">
@@ -270,6 +330,8 @@ Name | License | Demo
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ArcAnimator.gif" width="49%"> <img src="/art/ArcAnimator2.gif" width="49%">
 [SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | UnKnown | <img src="/art/SearchMenuAnim.gif" width="100%">
 [Cross View](https://github.com/cdflynn/crossview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/crossview.gif" width="49%"> <img src="/art/crossview2.gif" width="49%">
+[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WoWoAppIntroExample.gif" width="49%"> <img src="/art/WoWoCVExample.gif" width="49%">
+[Lottie for Android](https://github.com/airbnb/lottie-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/lottie-android.gif" width="100%"> <img src="/art/lottie-android2.gif" width="100%">
 
 Parallax
 ======================
@@ -286,6 +348,10 @@ Name | License | Demo
 [BlurBehind](https://github.com/faradaj/BlurBehind) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BlurBehind.png" width="49%"> <img src="/art/BlurBehind2.png" width="49%">
 [Android StackBlur](https://github.com/kikoso/android-stackblur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-stackblur.png" width="100%">
 [EdgeEffectOverride](https://github.com/AndroidAlliance/EdgeEffectOverride) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EdgeEffectOverride.jpeg" width="100%">
+[ExplosionField](https://github.com/tyrantgit/ExplosionField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExplosionField.gif" width="49%">
+[BrokenView](https://github.com/zhanyongsheng/BrokenView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BrokenView.gif" width="49%">
+[Trianglify](https://github.com/manolovn/trianglify) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Trianglify.png" width="49%">
+[ShineButton](https://github.com/ChadCSong/ShineButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ShineButton.gif" width="100%">
 
 Other
 ======================
@@ -300,5 +366,12 @@ Name | License | Demo
 [Material Shadow 9-Patch](https://github.com/h6ah4i/android-materialshadowninepatch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-materialshadowninepatch.png" width="49%">
 [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | [Apache License v2](https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/LICENSE) | <img src="/art/SimpleFingerGestures1.gif" width="49%"> <img src="/art/SimpleFingerGestures2.gif" width="49%"> <img src="/art/SimpleFingerGestures3.gif" width="49%"> <img src="/art/SimpleFingerGestures4.gif" width="49%">
 [Decor](https://github.com/chemouna/decor) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/decor.png" width="49%">
-[Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](http://www.youtube.com/watch?v=fJTl1bgQ3j4)
+[Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
 [EasyFonts](https://github.com/vsvankhede/easyfonts) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/easyfonts.png" width="100%">
+[Android Sliding Activity Library](https://github.com/klinker41/android-slidingactivity) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-slidingactivity.gif" width="49%"> <img src="/art/android-slidingactivity2.gif" width="49%">
+[Snake View](https://github.com/txusballesteros/snake) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/snake.gif" width="60%">
+[Rotatable](https://github.com/yayaa/Rotatable) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/Rotatable.gif" width="100%">
+[StatusBarUtil](https://github.com/laobie/StatusBarUtil) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StatusBarUtil.png" width="100%">
+[Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Horizon.png" width="100%">
+[Stepper Touch](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
+[Konfetti](https://github.com/DanielMartinus/konfetti) | [ISC](https://opensource.org/licenses/ISC) | <img src="/art/konfetti.gif">

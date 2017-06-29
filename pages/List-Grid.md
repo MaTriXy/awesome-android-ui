@@ -25,3 +25,9 @@ Name | License | Demo
 [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerViewFastScroller.png" width="49%"> <img src="/art/RecyclerViewFastScroller2.png" width="49%">
 [RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
 [SwipeToAction](https://github.com/diftco/SwipeToAction) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeToAction.gif" width="49%">
+[Advanced Recyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AdvancedRecyclerView.gif" width="49%">
+[RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recycler-itemdecoration1.gif" width="49%"> <img src="/art/recycler-itemdecoration2.gif" width="49%">
+[MaterialRecents](https://github.com/ZieIony/MaterialRecents) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialRecents.gif" width="49%">
+[Dividers](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
+[Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
+[sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
