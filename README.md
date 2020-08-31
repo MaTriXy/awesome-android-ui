@@ -4,13 +4,12 @@ List of Android UI/UX Libraries
 
 A curated list of awesome Android UI/UX libraries.
 
-## Other lists
-- _Looking for Core Library? Check out_ [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries).
-- _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
-
 ## Maintainers
 [![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
-[![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan](https://github.com/ogaclejapan)
+
+
+**I'm looking for someone to co-maintainer this awesome-android-ui.**  
+![Twitter URL](https://img.shields.io/twitter/url?label=DM%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fwasabeef_jp)
 
 ## Index `(light-weight pages)`
 * [Material](pages/Material.md)
@@ -68,7 +67,7 @@ Name | License | Demo
 [TapTargetView](https://github.com/KeepSafe/TapTargetView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TapTargetView.gif" width="49%">
 [Spotlight](https://github.com/TakuSemba/Spotlight) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/spotlight.gif" width="49%"> <img src="/art/spotlight2.gif" width="49%">
 [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTapTargetPrompt.jpg" width="49%">
-[MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MaterialShadows.png" いwidth="100%"> <img src="/art/MaterialShadows.png" width="100%">
+[MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MaterialShadows.png" width="100%">
 
 Layout
 ======================
@@ -113,6 +112,7 @@ Name | License | Demo
 [Vorolay](https://github.com/Quatja/Vorolay) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Vorolay.png" width="49%"> <img src="/art/Vorolay2.png" width="49%">
 [Hover](https://github.com/google/hover) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/hover.gif" width="49%">
 [FerrisWheel](https://github.com/iglaweb/Ferris-Wheel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FerrisWheelView.gif" width="62%">
+[TagSphereView](https://github.com/magic-goop/tag-sphere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/tagSphereView.gif" width="49%"> <img src="/art/tagSphereView1.gif" width="49%">
 
 Button
 ======================
@@ -158,6 +158,7 @@ Name | License | Demo
 [Dividers](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
 [Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
 [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
+[Kiel - Declarative RecyclerView Adapters](https://github.com/ibrahimyilmaz/kiel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/kiel.png">
 
 ViewPager
 ======================
@@ -232,6 +233,7 @@ Name | License | Demo
 [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/discreteseekbar.gif) ![](/art/discreteseekbar2.gif)
 [SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/seekbarcompat.gif)
 [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/PreviewSeekBar.gif)
+[RangeSeekBar](https://github.com/Jay-Goo/RangeSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://github.com/Jay-Goo/RangeSeekBar/blob/master/Gif/screen2.gif)
 
 Progress
 ======================
@@ -377,3 +379,4 @@ Name | License | Demo
 [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Horizon.png" width="100%">
 [Stepper Touch](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
 [Konfetti](https://github.com/DanielMartinus/konfetti) | [ISC](https://opensource.org/licenses/ISC) | <img src="/art/konfetti.gif">
+[CircleTimer](https://github.com/jaeryo2357/circleTimer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircleTimer.gif" width="49%">
